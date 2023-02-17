@@ -20,7 +20,7 @@
         <item name="colorOnPrimary">@color/white</item>
     </style>
     <style name="LoginHeader">
-        <item name="android:textColor">#2661FA</item>
+        <item name="android:textColor">#EF1111</item>
         <item name="android:textSize">30sp</item>
         <item name="android:textStyle">bold</item>
     </style>
