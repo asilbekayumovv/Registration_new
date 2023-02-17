@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="first_1">Create, share and play</string>
+    <string name="Fisrt_2">quizzes whenever and</string>
+    <string name="First_3">wherever you want</string>
+    <string name="Second_1">Find fun and interesting</string>
+    <string name="Second_2">quizzes to boost up your</string>
+    <string name="Second_3">knowledge</string>
+    <string name="Third_1">Play and take quiz</string>
+    <string name="Third_2">challenges together with</string>
+    <string name="Third_3">your friends</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+
+</resources>
